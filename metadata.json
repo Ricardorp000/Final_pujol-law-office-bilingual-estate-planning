@@ -1,0 +1,7 @@
+{
+  "name": "Pujol Law Office - Bilingual Estate Planning",
+  "description": "Bilingual estate planning concepts explained simply by Pujol Law Office, P.A.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
